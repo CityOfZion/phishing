@@ -1,2 +1,3 @@
 # phishing
-A list of phishing sites and addresses to be blocked
+
+A list of phishing sites and NEO addresses to be blocked
